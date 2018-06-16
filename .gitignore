@@ -1,0 +1,4 @@
+.vs
+bin/intermediates
+bin/Win32/Debug/LeoPong.ilk
+bin/Win32/Debug/LeoPong.pdb

@@ -10,13 +10,15 @@ LeoPong is a 2D Game made with my Kobe2D Game Engine written in C++ including GL
 
 ###### Windows
 
-Install Visual Studio from [here](https://www.visualstudio.com/downloads/), navigate to the LeoPong repository folder and open solution file.
+Install Visual Studio from [here](https://www.visualstudio.com/downloads/), navigate to the LeoPong repository folder and open solution file. 
+
 \*_Important!_
 _Change Platform from x64 to **x86** even if you're using x64 Operating Sytem_
+
 And just build the project.
 
 ###### Linux
 
 I will make a tutorial on how to setup LeoPong on Linux in the near future since i no longer use Ubuntu. 
 
-Feel free to contribute.
+Feel free to contribute. 
